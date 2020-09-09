@@ -1,1 +1,2 @@
 this is for Java app development
+this is day2
